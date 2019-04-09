@@ -1,0 +1,25 @@
+.header {
+    background-color: peachpuff;
+    height:150px ;
+}
+.contenedor h1 {
+    text-align: center;
+    font-family: cursive;
+    color: blue;
+    vertical-align: middle;
+   padding-top:40px; 
+}
+.main {
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+}
+.busqueda {
+    padding: 0%;
+    height: calc(1.5em + .75rem + 2px);;
+}
+.redesSociales {
+    padding-top:110px;
+}
